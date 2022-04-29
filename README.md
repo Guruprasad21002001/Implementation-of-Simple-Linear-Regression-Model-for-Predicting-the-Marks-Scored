@@ -4,13 +4,13 @@
 To write a program to implement the simple linear regression model for predicting the marks scored.
 
 ## Equipments Required:
-Hardware – PCs
-Anaconda – Python 3.7 Installation / Moodle-Code Runner
-Algorithm
-Import all the necessary librariesand modules.
-Upload the .csv file into folder.
-Assign the variables to the respective data in the file.
-Display the data in a graph using matplotlib.pyplot.
+1. Hardware – PCs
+2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
+## Algorithm
+1. Import all the necessary librariesand modules.
+2. Upload the .csv file into folder.
+3. Assign the variables to the respective data in the file.
+4. Display the data in a graph using matplotlib.pyplot.
 
 ## Program:
 /*
