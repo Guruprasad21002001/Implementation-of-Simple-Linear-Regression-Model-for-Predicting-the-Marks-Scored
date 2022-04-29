@@ -15,7 +15,9 @@ Display the data in a graph using matplotlib.pyplot.
 ## Program:
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
+
 Developed by: Guruprasad.B
+
 RegisterNumber:  212221230032
 */
 ~~~
@@ -53,8 +55,6 @@ plt.show()
 ## Output:
 
 ![op1](https://user-images.githubusercontent.com/95342910/165888968-38c1d2d9-4401-448b-b5bb-80218802e3a2.png)
-
-![op2](https://user-images.githubusercontent.com/95342910/165889002-f5503893-f82b-44b3-8cbf-be2fb5b81ba5.png)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
